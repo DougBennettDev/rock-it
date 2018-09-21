@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="answer-it" language="en" table="x_218651_rkit_answer_it">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>answer-it</label>
+            <language>en</language>
+            <name>x_218651_rkit_answer_it</name>
+            <plural>answer-its</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>kui</sys_created_by>
+            <sys_created_on>2018-09-21 18:13:37</sys_created_on>
+            <sys_id>36ad167fdb6c2300ac6385184b961923</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>answer-it</sys_name>
+            <sys_package display_value="rock-IT" source="x_218651_rkit">edec92fbdb6c2300ac6385184b961971</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="rock-IT">edec92fbdb6c2300ac6385184b961971</sys_scope>
+            <sys_update_name>sys_documentation_x_218651_rkit_answer_it__en</sys_update_name>
+            <sys_updated_by>kui</sys_updated_by>
+            <sys_updated_on>2018-09-21 18:13:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

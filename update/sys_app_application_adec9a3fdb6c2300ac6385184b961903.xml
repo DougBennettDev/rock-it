@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>rock-IT</name>
+        <order/>
+        <roles>x_218651_rkit.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>kui</sys_created_by>
+        <sys_created_on>2018-09-21 18:10:16</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>adec9a3fdb6c2300ac6385184b961903</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>rock-IT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="rock-IT" source="x_218651_rkit">edec92fbdb6c2300ac6385184b961971</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="rock-IT">edec92fbdb6c2300ac6385184b961971</sys_scope>
+        <sys_update_name>sys_app_application_adec9a3fdb6c2300ac6385184b961903</sys_update_name>
+        <sys_updated_by>kui</sys_updated_by>
+        <sys_updated_on>2018-09-21 18:10:16</sys_updated_on>
+        <title>rock-IT</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
